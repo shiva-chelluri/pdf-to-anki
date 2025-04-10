@@ -1,0 +1,1 @@
+This class uses Google's Generative AI API along with Datalab's OCR+LLM API to take in PDFs of lecture notes, slides etc. and generate a CSV file that can be imported to any quizlet software such as Anki. To use this repository, you need to create your own Google AI Studio API key (which has a free tier).
